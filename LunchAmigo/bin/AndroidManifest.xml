@@ -35,6 +35,10 @@
             android:name="mingle.unimelb.lunchamigo.InputTime"
             android:label="@string/title_activity_input_time" >
         </activity>
+        <activity
+            android:name="mingle.unimelb.lunchamigo.Add_from_contacts"
+            android:label="@string/title_activity_add_from_contacts" >
+        </activity>
     </application>
 
 </manifest>
